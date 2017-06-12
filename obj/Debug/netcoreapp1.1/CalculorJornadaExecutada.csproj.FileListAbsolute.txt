@@ -1,0 +1,8 @@
+C:\Desenvolvimento\CalculorJornadaExecutada\bin\Debug\netcoreapp1.1\CalculorJornadaExecutada.deps.json
+C:\Desenvolvimento\CalculorJornadaExecutada\bin\Debug\netcoreapp1.1\CalculorJornadaExecutada.runtimeconfig.json
+C:\Desenvolvimento\CalculorJornadaExecutada\bin\Debug\netcoreapp1.1\CalculorJornadaExecutada.runtimeconfig.dev.json
+C:\Desenvolvimento\CalculorJornadaExecutada\bin\Debug\netcoreapp1.1\CalculorJornadaExecutada.dll
+C:\Desenvolvimento\CalculorJornadaExecutada\bin\Debug\netcoreapp1.1\CalculorJornadaExecutada.pdb
+C:\Desenvolvimento\CalculorJornadaExecutada\obj\Debug\netcoreapp1.1\CalculorJornadaExecutada.AssemblyInfo.cs
+C:\Desenvolvimento\CalculorJornadaExecutada\obj\Debug\netcoreapp1.1\CalculorJornadaExecutada.dll
+C:\Desenvolvimento\CalculorJornadaExecutada\obj\Debug\netcoreapp1.1\CalculorJornadaExecutada.pdb

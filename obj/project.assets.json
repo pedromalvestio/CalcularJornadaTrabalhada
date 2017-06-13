@@ -9652,16 +9652,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Desenvolvimento\\CalculorJornadaExecutada\\CalculorJornadaExecutada.csproj",
+      "projectUniqueName": "C:\\Desenvolvimento\\CalcularJornadaTrabalho\\CalcularJornadaTrabalhada\\CalculorJornadaExecutada.csproj",
       "projectName": "CalculorJornadaExecutada",
-      "projectPath": "C:\\Desenvolvimento\\CalculorJornadaExecutada\\CalculorJornadaExecutada.csproj",
-      "outputPath": "C:\\Desenvolvimento\\CalculorJornadaExecutada\\obj\\",
+      "projectPath": "C:\\Desenvolvimento\\CalcularJornadaTrabalho\\CalcularJornadaTrabalhada\\CalculorJornadaExecutada.csproj",
+      "outputPath": "C:\\Desenvolvimento\\CalcularJornadaTrabalho\\CalcularJornadaTrabalhada\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/CalculorJornadaExecutada.dll": "C:\\Desenvolvimento\\CalculorJornadaExecutada\\bin\\placeholder\\netcoreapp1.1\\CalculorJornadaExecutada.dll"
+        "lib/netcoreapp1.1/CalculorJornadaExecutada.dll": "C:\\Desenvolvimento\\CalcularJornadaTrabalho\\CalcularJornadaTrabalhada\\bin\\placeholder\\netcoreapp1.1\\CalculorJornadaExecutada.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {

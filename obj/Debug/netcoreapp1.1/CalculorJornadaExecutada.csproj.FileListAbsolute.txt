@@ -6,3 +6,11 @@ C:\Desenvolvimento\CalculorJornadaExecutada\bin\Debug\netcoreapp1.1\CalculorJorn
 C:\Desenvolvimento\CalculorJornadaExecutada\obj\Debug\netcoreapp1.1\CalculorJornadaExecutada.AssemblyInfo.cs
 C:\Desenvolvimento\CalculorJornadaExecutada\obj\Debug\netcoreapp1.1\CalculorJornadaExecutada.dll
 C:\Desenvolvimento\CalculorJornadaExecutada\obj\Debug\netcoreapp1.1\CalculorJornadaExecutada.pdb
+C:\Desenvolvimento\CalcularJornadaTrabalho\CalcularJornadaTrabalhada\bin\Debug\netcoreapp1.1\CalculorJornadaExecutada.deps.json
+C:\Desenvolvimento\CalcularJornadaTrabalho\CalcularJornadaTrabalhada\bin\Debug\netcoreapp1.1\CalculorJornadaExecutada.runtimeconfig.json
+C:\Desenvolvimento\CalcularJornadaTrabalho\CalcularJornadaTrabalhada\bin\Debug\netcoreapp1.1\CalculorJornadaExecutada.runtimeconfig.dev.json
+C:\Desenvolvimento\CalcularJornadaTrabalho\CalcularJornadaTrabalhada\bin\Debug\netcoreapp1.1\CalculorJornadaExecutada.dll
+C:\Desenvolvimento\CalcularJornadaTrabalho\CalcularJornadaTrabalhada\bin\Debug\netcoreapp1.1\CalculorJornadaExecutada.pdb
+C:\Desenvolvimento\CalcularJornadaTrabalho\CalcularJornadaTrabalhada\obj\Debug\netcoreapp1.1\CalculorJornadaExecutada.AssemblyInfo.cs
+C:\Desenvolvimento\CalcularJornadaTrabalho\CalcularJornadaTrabalhada\obj\Debug\netcoreapp1.1\CalculorJornadaExecutada.dll
+C:\Desenvolvimento\CalcularJornadaTrabalho\CalcularJornadaTrabalhada\obj\Debug\netcoreapp1.1\CalculorJornadaExecutada.pdb
